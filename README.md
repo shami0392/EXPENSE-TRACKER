@@ -32,3 +32,7 @@ ExpenseTracker/
 ├── db.py # Database functions
 ├── expenses.db # SQLite database file (auto created)
 ├── requirements.txt # Dependencies
+
+
+BELOW IS THE DEPLOY LINK OF EXPENSE TRACKER-
+https://expense-tracker-4n75cjsg5zbhb9rutfjm5r.streamlit.app/
